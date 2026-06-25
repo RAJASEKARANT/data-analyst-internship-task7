@@ -10,6 +10,7 @@ Basic sales summary system using Python and MySQL :
   -A simple Matplotlib bar chart
 
 Sales Summary :
+
     product  total_qty   revenue
 0  Keyboard         10   15000.0
 1    Laptop          8  400000.0
