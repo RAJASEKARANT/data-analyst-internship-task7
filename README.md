@@ -3,10 +3,14 @@ Basic sales summary system using Python and MySQL :
 * Connect to a SQLite database (sales_data.db)
 * Store sales records in a table
 * Calculate:
+  
   -Total quantity sold per product
+  
   -Total revenue per product
 * Display results using:
+  
   -print()
+  
   -A simple Matplotlib bar chart
 
 Sales Summary
