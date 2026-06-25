@@ -13,7 +13,9 @@ Sales Summary
 
     product   total_qty   revenue
 0  Keyboard      10       15000
+
 1   Laptop        8      400000
+
 2    Mouse       35       17500
 
 Bar chart :
