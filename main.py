@@ -9,8 +9,6 @@ CREATE TABLE IF NOT EXISTS sales (
     price REAL
 )
 """)
-
-# Insert sample data
 sales_data = [
     ("Laptop", 5, 50000),
     ("Mouse", 20, 500),
